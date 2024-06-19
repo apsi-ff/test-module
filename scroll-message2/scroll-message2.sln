@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scroll-message2", "scroll-message2\scroll-message2.csproj", "{34B7328F-BD04-4E7A-BB9F-63F71103E9C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B7328F-BD04-4E7A-BB9F-63F71103E9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B7328F-BD04-4E7A-BB9F-63F71103E9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B7328F-BD04-4E7A-BB9F-63F71103E9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B7328F-BD04-4E7A-BB9F-63F71103E9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAB18542-A64F-446A-944E-347243D0F483}
+	EndGlobalSection
+EndGlobal
